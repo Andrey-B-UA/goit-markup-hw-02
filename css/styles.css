@@ -1,0 +1,158 @@
+/* .nav{
+	background-color: #FFFFFF;
+	font-size: 14px;
+font-weight: 500;
+font-style: normal;
+font-family: sans-serif;
+		} */
+	.web-title{
+		font-size: 26px;
+			font-weight: 700;
+			font-style: normal;
+				font-family: sans-serif;
+				color: #212121;
+					text-decoration: none
+	}
+		.header-href {
+		color: #212121;
+		text-decoration: none;
+	}
+	.header-href:hover {
+		color: #2196F3;
+		
+	}
+	.header-href:focus {
+			color: #2196F3;
+	}
+	.header-href:active {
+		color: #2196F3;
+	}
+	.header-href2{
+		color: #757575;
+		background-color: #FFFFFF;
+			font-size: 14px;
+			font-weight: 500;
+			font-style: normal;
+			font-family: sans-serif;
+	}
+		.header-href2 {
+			text-decoration: none;
+		}
+	
+		.header-href2:hover {
+			color: #2196F3;
+	
+		}
+	
+		.header-href2:focus {
+			color: #2196F3;
+		}
+	
+		.header-href2:active {
+			color: #2196F3;
+		}
+.hero-title {
+	font-size: 44px;
+	background-color: #2F303A;
+	color: #FFFFFF;
+}
+.our-advantages-description {
+	color: #757575;
+	background-color: #FFFFFF;
+		font-size: 14px;
+		font-weight: 400;
+		font-style: normal;
+		font-family: sans-serif;
+}
+.primary-button {
+	color: #FFFFFF;
+	background-color: #2196F3;
+	font-size: 16px;
+}
+
+.our-advantages-title{
+	color: #212121;
+	background-color: #FFFFFF;
+		font-size: 14px;
+		font-weight: 700;
+		font-style: normal;
+		font-family: sans-serif;
+}
+
+.what-do-we-do {
+	color: #212121;
+		background-color: #FFFFFF;
+		font-size: 36px;
+		font-weight: 700;
+		font-style: normal;
+		font-family: sans-serif;
+}
+.our-team{
+	color: #212121;
+		background-color: #FFFFFF;
+		font-size: 36px;
+		font-weight: 700;
+		font-style: normal;
+		font-family: sans-serif;
+}
+.our-team-name{
+	color: #212121;
+		background-color: #FFFFFF;
+		font-size: 16px;
+		font-weight: 500;
+		font-style: normal;
+		font-family: sans-serif;
+}
+.team-specialty{
+		color: #757575;
+		background-color: #FFFFFF;
+		font-size: 16px;
+		font-weight: 400;
+		font-style: normal;
+		font-family: sans-serif;
+}
+.web-title-footer{
+	font-size: 26px;
+		font-weight: 700;
+		font-style: normal;
+		font-family: sans-serif;
+		color: #FFFFFF;
+		background-color: #212121;
+		text-decoration: none
+}
+.footer-href-map{
+	color: #FFFFFF;
+		background-color: #2F303A;
+		font-size: 14px;
+		font-weight: 500;
+		font-style: normal;
+		font-family: sans-serif;
+		text-decoration: none;
+}
+.footer-href-map:hover{
+color: #2196F3;
+}
+.footer-href-map:focus{
+color: #2196F3;
+}
+.footer-href-map:active{
+color: #2196F3;
+}
+.footer-href{
+	color: #757575;
+		background-color: #FFFFFF;
+		font-size: 14px;
+		font-weight: 400;
+		font-style: normal;
+		font-family: sans-serif;
+		text-decoration: none;
+}
+.footer-href:hover{
+color: #2196F3;
+}
+.footer-href:focus{
+color: #2196F3;
+}
+.footer-href:active{
+color: #2196F3;
+}
