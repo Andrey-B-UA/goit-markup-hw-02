@@ -1,4 +1,4 @@
-		:root{
+:root{
 			--color-primary: #212121;
 			--color-secondary: #757575;
 			--color-background: #FFFFFF;
@@ -15,7 +15,7 @@
 					clip-path: inset(50%);
 					margin: -1px;
 				}
-	.body{
+	body{
 		color: var(--color-primary);
 		background-color:var(--color-background);
 		font-family: "Roboto", sans-serif;
