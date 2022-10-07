@@ -2,6 +2,7 @@
 --color-primary: #212121;
 --color-secondary: #757575;
 --color-background: #FFFFFF;
+--color-link: #2196F3;
 }
 .visually-hidden {
 position: absolute;
@@ -29,7 +30,7 @@ ul{
 list-style-type: none;
 }
 .nav .current{
-color:#2196F3;
+color:var(--color-link);
 }
 .web-title{
 font-size: 26px;
@@ -37,7 +38,7 @@ font-weight: 700;
 font-style: normal;
 font-family: "Raleway"; 
 line-height: 1.15;
-color: #2196F3;
+color:var(--color-link);
 
 text-decoration: none
 }
@@ -51,24 +52,18 @@ text-decoration: none;
 letter-spacing: 0.02em;
 line-height: 1.14;
 font-weight: 500;
+font-size: 14px;
 }
-.link-header:hover {
-color: #2196F3;
+.link-header:hover, .link-header:focus, .link-header:active {
+color: var(--color-link);
+}
 
-}
-.link-header:focus {
-color: #2196F3;
-}
-.link-header:active {
-color: #2196F3;
-}
 .link-header2{
 color: #757575;
 background-color: #FFFFFF;
 font-size: 14px;
 font-weight: 500;
 font-style: normal;
-font-family: sans-serif;
 letter-spacing: 0.02em;
 }
 .link-header2 {
@@ -76,7 +71,7 @@ text-decoration: none;
 }
 
 .link-header2:hover, .link-header2:focus, .link-header2:active {
-color: #2196F3;
+color: var(--color-link);
 }
 
 .hero {
@@ -99,7 +94,7 @@ line-height: 1.7;
 }
 .primary-button {
 color: #FFFFFF;
-background-color: #2196F3;
+background-color: var(--color-link);
 font-size: 16px;
 border: 0;
 line-height: 1.9;
@@ -153,7 +148,7 @@ font-size: 26px;
 font-weight: 700;
 font-style: normal;
 font-family: "Raleway"; sans-serif;
-color: #2196F3;
+color: var(--color-link);
 text-decoration: none;
 line-height: 1.17;
 }
@@ -169,24 +164,22 @@ background-color: #2F303A;
 font-size: 14px;
 font-weight: 500;
 font-style: normal;
-font-family: sans-serif;
 text-decoration: none;
 line-height: 1.7;
 }
 .footer-href-map:hover, .link-footer-map:focus, .flink-footer-map:active{
-color: #2196F3;
+color: var(--color-link);
 }
 .link-footer{
 color: #757575;
 font-size: 14px;
 font-weight: 400;
 font-style: normal;
-font-family: sans-serif;
 text-decoration: none;
 line-height: 1.7;
 }
 .link-footer:hover, .link-footer:focus, .link-footer:active{
-color: #2196F3;
+color: var(--color-link);
 }
 
 .button-portfolio{
@@ -202,7 +195,7 @@ cursor: pointer;
 }
 .button-portfolio:hover, .button-portfolio:focus {
 	color: #FFFFFF;
-	background-color: #2196F3;
+	background-color: var(--color-link);
 }
 .hero-portfolio {
 font-weight: 400;
